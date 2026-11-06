@@ -1,0 +1,7 @@
+slprj/
+*.slxc
+*_ert_rtw/
+*_grt_rtw/
+*.autosave
+*.asv
+testcase_backup.mat
