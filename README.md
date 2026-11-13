@@ -2,7 +2,7 @@
 
 A smart rubbish bin that opens its lid when a hand approaches. The controller is designed as a **Stateflow** state machine from a set of written requirements, verified in a **Simulink test harness** against five test scenarios, turned into **Arduino Uno firmware** by code generation, and run on a virtual Uno in **SimulIDE** with an HC-SR04 ultrasonic sensor and a servo.
 
-Model-Based Software Design (Grade: 27/30), Politecnico di Torino, A.Y. 2025/26.
+Developed during the Model-Based Software Design (Grade: 27/30), Politecnico di Torino, A.Y. 2025/26.
 
 <p align="center">
   <img src="docs/media/stateflow_chart.png" width="90%" alt="Stateflow chart with the LID and LED state machines">
